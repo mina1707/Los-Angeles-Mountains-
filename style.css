@@ -1,0 +1,89 @@
+
+.pictureTwo {
+    background: url('mountainOne.jpeg') no-repeat;
+    background-size: 100% 1000px;
+    height: 1000px;
+    padding-top: 40px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.whiteSpace {
+    padding-top:30px;
+    padding-bottom:30px;
+    padding-left:80px;
+    padding-right:80px;
+    text-align: center;
+  
+
+}
+
+.whiteBox {
+    width:600px;
+    display: inline-block;
+}
+.align {
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+.tittle{
+    display: inline-block;
+
+}
+
+.numberSize {
+    font-size: 80px;
+    color:#949494;
+    
+}
+
+.colorTextOne {
+    color:#15273e !important ;
+}
+
+.secondNav {
+   
+    background-color: #404f6c;
+    width:100%;
+}
+
+.textAlign {
+    display: inline-block;
+}
+
+
+.carousel-item {
+    height: 20rem;
+    background-color: gray;
+    position: relative;
+}
+
+/* .container{
+    position:absolute;
+    bottom:0;
+    left:0;
+    right: 0;
+} */
+
+
+.footerStyle {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: #404f6c;
+    margin: auto;
+ 
+    
+}
+#COPYRIGHT {
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.carStyle{
+    display: flex;
+    flex-direction: column;
+}
